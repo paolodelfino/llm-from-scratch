@@ -11,3 +11,4 @@ output.prof
 llm/__pycache__
 __pycache__
 __pycache__
+log/memory_snapshot.pickle
